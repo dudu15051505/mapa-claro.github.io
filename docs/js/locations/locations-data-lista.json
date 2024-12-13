@@ -341,5 +341,12 @@
     "data": "2024-12-06",
     "valorCampo": "2024-12-06",
     "textoUrl": ""
+  },
+  {
+    "data": "2024-12-13",
+    "textoUrl": "",
+    "informacaoExtra": "Consulta automática",
+    "valorCampo": "2024-12-13",
+    "url": "#"
   }
 ]
